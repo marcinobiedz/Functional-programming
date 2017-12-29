@@ -11,3 +11,5 @@ const Left = x => ({
     inspect: () => `Left(${x})`,
     fold: (f, g) => f(x)
 });
+
+module.exports = {Right, Left};

@@ -19,6 +19,7 @@
   "dependencies": {
     "data.task": "^3.1.1",
     "fs": "0.0.1-security",
+    "futurize": "^1.2.0",
     "immutable": "^3.8.2",
     "immutable-ext": "^1.1.2"
   }
